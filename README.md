@@ -33,6 +33,7 @@ npm install @imtbl/wallet-sdk-web --save
 [How to register customers on Immutable X](https://docs.x.immutable.com/docs/how-to-register-users/#core-sdk)
 
 Example of how to register the Customers: 
+
 ```typescript
 const walletConnection = { ethSigner, starkSigner }
 
@@ -49,7 +50,8 @@ client.registerOffchain(walletConnection)
 ### Creating the products
 [How to create products on Immutable X](https://docs.x.immutable.com/docs/how-to-create-orders/) 
 
-- Example of creating a product
+Example of creating a product:
+
 ```typescript
 const createOrder = async (
   wallet: WalletConnection, // WalletConnection containing the L1 and L2 signers
@@ -67,7 +69,9 @@ createOrder(wallet, orderData)
     console.log(e);
   });
   ```
+  
   Example Response: 
+  
   ```typescript
 {
   order_id: 7215, // ID of the created order
@@ -78,7 +82,8 @@ createOrder(wallet, orderData)
 
 ## Enabling Trade 
 [How to enable trade on Immutable X](https://docs.x.immutable.com/docs/how-to-create-trades/#core-sdk) 
- Example of creating trade with Wallet ID 7232: 
+
+Example of creating trade with Wallet ID 7232: 
 
 ```javascript
 const createTrade = async (wallet: WalletConnection, orderId: number) => {
@@ -101,7 +106,7 @@ createTrade(wallet, 7232)
   })
   ```
   
-  Response Example: 
+Response Example: 
   
 ```typescript
 { 
