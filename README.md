@@ -115,7 +115,7 @@ We wish to collaborate with NFT artists around the world to create unique NFT ar
 
 - Minting NFTs with royalties can reward the NFT artists 
 - Keep track of the transaction histories of the NFTs 
-## License
+## License of Immutable X
 
 [Immutable X](https://support.immutable.com/en/articles/6393972-immutable-x-protocol-licence-agreement)
 
