@@ -1,6 +1,6 @@
 # Investing in Wine through NFTs 
 
-How we will use Immutable X for creating order and trade of the wine ownership NFTs
+Digitalization of the wine industry and lowering the barrier of entry for wine investment
 
 
 ## WHY WE NEED TO USE NFT FOR WINE INVESTMENT 
