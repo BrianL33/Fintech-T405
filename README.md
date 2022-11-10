@@ -6,7 +6,11 @@ How we will use Immutable X for creating order and trade of the wine ownership N
 ## WHY WE NEED TO USE NFT FOR WINE INVESTMENT 
 
  - [Illegal according to the Food and Environmental Hygiene Department](https://www.fehd.gov.hk/english/licensing/ll-cll-appguide.pdf)
- - Through the usage of NFT, it becomes a trade of assets and not an illegal investment activity
+ - Through the usage of NFT and our proposal, it becomes a trade of assets and not an illegal investment activity
+ - Wines' values increase over time and customers can profit from investing into high-end value wine 
+ - Digitalization of the wine industry can attract more younger generations 
+ - High-end value wines become easily accessible all around the world through our proposal
+ - Our proposal is more than selling just a bottle of wine/liquor
 ## HOW WE USE IMMUTABLE X
 ### Setting  Up for business 
  Throughout this project, we will be mainly focused on using Typescript 
