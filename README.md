@@ -1,6 +1,6 @@
 # Investing in Wine through NFTs 
 
-Digitalization of the wine industry and lowering the barrier of entry for wine investment
+Digitalization of the wine industry and lowering the barrier of entry for wine investment through NFT
 
 
 ## WHY WE NEED TO USE NFT FOR WINE INVESTMENT 
