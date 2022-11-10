@@ -85,7 +85,7 @@ createOrder(wallet, orderData)
 
 Example of creating trade with Wallet ID 7232: 
 
-```javascript
+```typescript
 const createTrade = async (wallet: WalletConnection, orderId: number) => {
   const ethAddress = await wallet.ethSigner.getAddress();
   const tradeData = {
