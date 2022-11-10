@@ -80,7 +80,8 @@ createOrder(wallet, orderData)
 ## Enabling Trade 
 [How to enable trade on Immutable X](https://docs.x.immutable.com/docs/how-to-create-trades/#core-sdk) 
 - Example of creating trade with Wallet ID 7232: 
-```typescript
+
+```javascript
 const createTrade = async (wallet: WalletConnection, orderId: number) => {
   const ethAddress = await wallet.ethSigner.getAddress();
   const tradeData = {
@@ -101,6 +102,7 @@ createTrade(wallet, 7232)
   })
   ```
   - Response Example: 
+  
 ```typescript
 { 
   trade_id: 226892, // ID of trade within ImmutableX
