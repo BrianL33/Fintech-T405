@@ -13,6 +13,7 @@ Digitalization of the wine industry and lowering the barrier of entry for wine i
  - Our proposal is more than selling just a bottle of wine/liquor
  
  and we will aim to achieve our proposal through a platform called Immutable X. 
+ # Technology Used: Immutable X
 ## HOW WE USE IMMUTABLE X
 ### Setting  Up for business 
  Throughout this project, we will be mainly focused on using Typescript 
