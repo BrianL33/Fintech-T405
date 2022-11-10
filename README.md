@@ -11,6 +11,7 @@ How we will use Immutable X for creating order and trade of the wine ownership N
  - Digitalization of the wine industry can attract more younger generations 
  - High-end value wines become easily accessible all around the world through our proposal
  - Our proposal is more than selling just a bottle of wine/liquor
+ 
  and we will aim to achieve our proposal through a platform called Immutable X. 
 ## HOW WE USE IMMUTABLE X
 ### Setting  Up for business 
